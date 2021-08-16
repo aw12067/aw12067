@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashwin Walunj
 - 👀 I’m interested in Web Development, front-end, back-end technologies. 
 - 🌱 I’m currently pursuing my 4th year in Computer Science Engineering.
-- 💞️ I’m looking to collaborate on web development projects and projects using django framework.
+- 💞️ I’m looking to collaborate on java,web development projects and projects using django framework.
 - 📞 +91 8412889476
 - 📧 ashwinwalunj@gmail.com
 - 📌 https://ashwin-walunj.herokuapp.com
